@@ -18,7 +18,7 @@
 
 
 
-[![Github Badge](https://img.shields.io/badge/AhmadGhozali-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ahmadghozali-xyz/)](https://www.github.com/ahmadghozali-xyz/)    [![Twitter Badge](https://img.shields.io/badge/-ahmadghozaliXD-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ahmadghozaliXD/)](https://www.twitter.com/ahmadghozaliXD/) <p align='left'>You may know me as `Ahmad Ghozali`   Airdrophunter, Design Grafis and Video Editor   </p>
+[![Github Badge](https://img.shields.io/badge/AhmadGhozali-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ahmadghozali-xyz/)](https://www.github.com/ahmadghozali-xyz/)    [![Twitter Badge](https://img.shields.io/badge/-ahmadghozaliXD-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ahmadghozaliXD/)](https://www.twitter.com/ahmadghozaliXD/) 
 
 ## Tentang Saya
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadghozali-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadghozali-xyz" /> </p>
