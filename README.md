@@ -1,8 +1,21 @@
 ## Selamat Datang
-- ✅ Nama      : Ahmad Ghozali
-- ✅ Kampus    : Universitas Muhammadiyah Riau
-- ✅ Prodi     : Ilmu Komputer
-- ✅ Jurusan   : Teknik Infomartika
+- ✅  Ahmad Ghozali
+- ✅  Universitas Muhammadiyah Riau
+- ✅  Ilmu Komputer
+- ✅  Teknik Infomartika
+
+## Contact Person
+
+👨‍💻 Github : ahmadghozali-xyz
+
+📧 Email : ahmadghozali.xyz@gmail.com
+
+☎️ Phone : 082313959115
+
+💬 Whatsapp : wa.me/6282313959115
+
+💬 Instagram : ahmadghozali.xyz
+
 
 
 [![Github Badge](https://img.shields.io/badge/AhmadGhozali-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ahmadghozali-xyz/)](https://www.github.com/ahmadghozali-xyz/)    [![Twitter Badge](https://img.shields.io/badge/-ahmadghozaliXD-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ahmadghozaliXD/)](https://www.twitter.com/ahmadghozaliXD/) <p align='left'>You may know me as `Ahmad Ghozali`   Airdrophunter, Design Grafis and Video Editor   </p>
