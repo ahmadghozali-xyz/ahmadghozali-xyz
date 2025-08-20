@@ -10,10 +10,6 @@
 
 📧 Email : ahmadghozali.xyz@gmail.com
 
-☎️ Phone : 082313959115
-
-💬 Whatsapp : wa.me/6282313959115
-
 💬 Instagram : ahmadghozali.xyz
 
 <h3 align="left">Connect with me:</h3>
