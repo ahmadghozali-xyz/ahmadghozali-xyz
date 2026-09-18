@@ -1,25 +1,131 @@
-## Selamat Datang
-- ✅  Universitas Muhammadiyah Riau
-- ✅  Ilmu Komputer
-- ✅  Teknik Infomartika
+<div align="center">
 
-## Contact Person
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=28\&pause=1000\&color=00A6FB\&center=true\&vCenter=true\&random=false\&width=600\&lines=Halo,+Saya+Ahmad+Ghozali+%F0%9F%91%8B;Mahasiswa+Teknik+Informatika;Pengembang+Software+%26+Teknologi)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadghozalixd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadghozali-xyz" height="30" width="40" /></a>
-<a href="https://fb.com/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="axyz" height="30" width="40" /></a>
-<a href="https://instagram.com/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xyz" height="30" width="40" /></a>
-</p>
+</div>
 
+<div align="center">  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%" alt="divider" />  
+</div>
 
-[![Github Badge](https://img.shields.io/badge/xyz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ahmadghozali-xyz/)](https://www.github.com/ahmadghozali-xyz/)    [![Twitter Badge](https://img.shields.io/badge/-xyz-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ahmadghozaliXD/)](https://www.twitter.com/xyz/) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadghozali-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadghozali-xyz" /> </p>
+## 🧑‍💻 Tentang Saya
 
-## Tentang Saya
-<h3 align="left">Languages and Tools:</h3>
+Mahasiswa **Ilmu Komputer — Teknik Informatika** di Universitas Muhammadiyah Riau. Tertarik dengan pengembangan perangkat lunak, eksplorasi teknologi baru, dan membangun proyek yang bermanfaat. Terus belajar, terus ngoding, terus berkembang.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadghozali-xyz&show_icons=true&locale=en&layout=compact" alt="ahmadghozali-xyz" /></p>
+```yaml
+name: "Ahmad Ghozali"
+location: "Riau, Indonesia"
+education: "Universitas Muhammadiyah Riau"
+field: "Ilmu Komputer / Teknik Informatika"
+interests: ["Web Development", "Software Engineering", "Open Source"]
+currently_learning: "Something new every day 🚀"
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadghozali-xyz&" alt="ahmadghozali-xyz" /></p>
+---
+
+## 🎓 Pendidikan
+
+<div align="center">  
+  <img src="https://img.shields.io/badge/Universitas_Muhammadiyah_Riau-0E4D92?style=flat-square\&logo=googlescholar\&logoColor=white" alt="Universitas Muhammadiyah Riau" />  
+  <img src="https://img.shields.io/badge/Fakultas-Ilmu_Komputer-1f6feb?style=flat-square\&logoColor=white" alt="Ilmu Komputer" />  
+  <img src="https://img.shields.io/badge/Prodi-Teknik_Informatika-2ea043?style=flat-square\&logoColor=white" alt="Teknik Informatika" />  
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<table border="0" cellspacing="0" cellpadding="10">  
+  <tr>  
+    <td align="center" width="20%"><b>👨‍💻 Bahasa</b></td>  
+    <td align="left">  
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white" />  
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black" />  
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white" />  
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white" />  
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white" />  
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white" />  
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white" />  
+    </td>  
+  </tr>  
+  <tr>  
+    <td align="center" width="20%"><b>⚙️ Framework</b></td>  
+    <td align="left">  
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white" />  
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white" />  
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white" />  
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB" />  
+    </td>  
+  </tr>  
+  <tr>  
+    <td align="center" width="20%"><b>🗄️ Database</b></td>  
+    <td align="left">  
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white" />  
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white" />  
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square\&logo=sqlite\&logoColor=white" />  
+    </td>  
+  </tr>  
+  <tr>  
+    <td align="center" width="20%"><b>🔧 Tools</b></td>  
+    <td align="left">  
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white" />  
+      <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square\&logo=github\&logoColor=white" />  
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white" />  
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white" />  
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black" />  
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white" />  
+    </td>  
+  </tr>  
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadghozali-xyz\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true\&bg_color=0d1117)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ahmadghozali-xyz\&theme=tokyonight\&hide_border=true\&background=0D1117)
+
+</div>
+
+<div align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmadghozali-xyz\&theme=tokyonight\&no-frame=true\&margin-w=8\&margin-h=8\&column=4" alt="Trophies" />  
+</div>
+
+<div align="center">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadghozali-xyz\&theme=github-compact\&hide_border=true\&area=true\&color=00A6FB\&line=00A6FB\&point=FFFFFF" alt="Activity Graph" />  
+</div>
+
+<div align="center">  
+  <img src="https://komarev.com/ghpvc/?username=ahmadghozali-xyz\&label=Profile%20Views\&color=0e75b6\&style=flat-square" alt="Profile Views" />  
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ahmadghozali-xyz" target="\_blank"><img src="https://img.shields.io/badge/GitHub-ahmadghozali--xyz-100000?style=flat-square\&logo=github\&logoColor=white" alt="GitHub" /></a>  
+<a href="https://twitter.com/xyz" target="\_blank"><img src="https://img.shields.io/badge/Twitter-@xyz-1DA1F2?style=flat-square\&logo=twitter\&logoColor=white" alt="Twitter" /></a>  
+<a href="https://linkedin.com/in/xyz" target="\_blank"><img src="https://img.shields.io/badge/LinkedIn-xyz-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white" alt="LinkedIn" /></a>  
+<a href="https://facebook.com/xyz" target="\_blank"><img src="https://img.shields.io/badge/Facebook-xyz-1877F2?style=flat-square\&logo=facebook\&logoColor=white" alt="Facebook" /></a>  
+<a href="https://instagram.com/xyz" target="\_blank"><img src="https://img.shields.io/badge/Instagram-@xyz-E4405F?style=flat-square\&logo=instagram\&logoColor=white" alt="Instagram" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+⭐️ From [ahmadghozali-xyz](https://github.com/ahmadghozali-xyz) — *Jangan takut gagal, takutilah untuk berhenti mencoba.*
+
+</div>
