@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">  
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.svg" width="100%" alt="divider" />  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />  
 </div>
 
 ## 🧑‍💻 Tentang Saya
@@ -84,7 +84,7 @@ currently_learning: "Something new every day 🚀"
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadghozali-xyz\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true\&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=ahmadghozali-xyz\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
 
 </div>
 
@@ -95,29 +95,7 @@ currently_learning: "Something new every day 🚀"
 </div>
 
 <div align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadghozali-xyz\&theme=tokyonight\&no-frame=true\&margin-w=8\&margin-h=8\&column=4" alt="Trophies" />  
-</div>
-
-<div align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadghozali-xyz\&theme=github-compact\&hide_border=true\&area=true\&color=00A6FB\&line=00A6FB\&point=FFFFFF" alt="Activity Graph" />  
-</div>
-
-<div align="center">  
   <img src="https://komarev.com/ghpvc/?username=ahmadghozali-xyz\&label=Profile%20Views\&color=0e75b6\&style=flat-square" alt="Profile Views" />  
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/ahmadghozali-xyz" target="\_blank"><img src="https://img.shields.io/badge/GitHub-ahmadghozali--xyz-100000?style=flat-square\&logo=github\&logoColor=white" alt="GitHub" /></a>  
-<a href="https://twitter.com/xyz" target="\_blank"><img src="https://img.shields.io/badge/Twitter-@xyz-1DA1F2?style=flat-square\&logo=twitter\&logoColor=white" alt="Twitter" /></a>  
-<a href="https://linkedin.com/in/xyz" target="\_blank"><img src="https://img.shields.io/badge/LinkedIn-xyz-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white" alt="LinkedIn" /></a>  
-<a href="https://facebook.com/xyz" target="\_blank"><img src="https://img.shields.io/badge/Facebook-xyz-1877F2?style=flat-square\&logo=facebook\&logoColor=white" alt="Facebook" /></a>  
-<a href="https://instagram.com/xyz" target="\_blank"><img src="https://img.shields.io/badge/Instagram-@xyz-E4405F?style=flat-square\&logo=instagram\&logoColor=white" alt="Instagram" /></a>
-
 </div>
 
 ---
@@ -126,6 +104,6 @@ currently_learning: "Something new every day 🚀"
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-⭐️ From [ahmadghozali-xyz](https://github.com/ahmadghozali-xyz) — *Jangan takut gagal, takutilah untuk berhenti mencoba.*
+⭐️ From [ahmadghozali-xyz](https://github.com/ahmadghozali-xyz) — 
 
 </div>
