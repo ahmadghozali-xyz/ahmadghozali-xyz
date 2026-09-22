@@ -18,7 +18,7 @@ location: "Riau, Indonesia"
 education: "Universitas Muhammadiyah Riau"
 field: "Ilmu Komputer / Teknik Informatika"
 interests: ["Web Development", "Software Engineering", "Open Source"]
-currently_learning: "Something new every day 🚀"
+currently_learning: " Keep Never Tired Learning- KNTL" 🚀"
 ```
 
 ---
